@@ -1,0 +1,25 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Kotlin plugin data
+.kotlin
+
+# Eclipse / STS (Buildship gera esses arquivos ao importar)
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ / VS Code (caso alguém abra o projeto em outra IDE)
+.idea/
+*.iml
+.vscode/
+
+# Índice local da ferramenta graft
+graft/
+
+# Material de referência com direito autoral — não publicar
+docs/javamanual.pdf
