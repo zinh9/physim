@@ -1,6 +1,6 @@
 # Roadmap
-- [ ] 0. Setup (Gradle, Git, repo no GitHub)
-- [ ] 1. Alcance do projétil: fórmula + teste JUnit
+- [x] 0. Setup (Gradle, Git, repo no GitHub)
+- [x] 1. Alcance do projétil: fórmula + teste JUnit
 - [ ] 2. Trajetória: simulação passo a passo (Euler) vs analítica
 - [ ] 3. Resistência do ar
 - [ ] 4. Pêndulo
